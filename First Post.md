@@ -1,5 +1,5 @@
 ---
-url:firstpost
-title:First Post
+url: firstpost
+title: First Post
 ---
 Hello World.💃 🎉
