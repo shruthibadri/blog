@@ -4,4 +4,5 @@ title: First Post
 ---
 Hello World.💃 🎉
 
-I'm liiiiiive.
+I'm liiiiiive. ⚡️
+
