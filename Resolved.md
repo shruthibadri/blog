@@ -20,15 +20,16 @@ So, to rephrase: I'll use this space to track my own (tentatively) resolved ques
 	
 There are many differences in values between cultures. When we imagine this isn't true, we waste a lot of time: 
 
-A. using 🥨 logic to claim these cultures are basically the same
-B. condemning those cultures that are different and/or imposing our values on them
-C. fretting that perhaps the values of other cultures are better than ours
+- A. using 🥨 logic to claim these cultures are basically the same
+- B. condemning those cultures that are different and/or imposing our values on them
+- C. fretting that perhaps the values of other cultures are better than ours
 
 Instead of: 
 
-D. learning to engage with people/ideas on their own terms and live with differences while still respecting one's own cultural context.
+- D. learning to engage with people/ideas on their own terms and live with differences while still respecting one's own cultural context.
 	
 >**What this has resolved for me**:
+>
 > Realizing that when people from different cultures comment about one another they're often doing A, B or C. Such comment can range from tweet threads to op-eds to public statements to the strange practice of creating lists ranking countries on adherence to different values. In general there's no use of being agitated about the misunderstanding which are more rules than exception. Instead, they can generally be safely ignored.
 
 The reading list above contains meta-concepts. They helped break down many of the ideas that kept me from doing D. In terms of actually engaging with different cultures, here's a non-exhaustive set of what I've found interesting
