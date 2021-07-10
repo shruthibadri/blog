@@ -28,10 +28,10 @@ Instead of:
 
 D. learning to engage with people/ideas on their own terms and live with differences while still respecting one's own cultural context.
 	
-**Grief this has saved me**
-> Realizing that when people from different cultures comment about one another (ranging from tweet threads to op-eds to public statements to the strange practice of creating lists ranking countries on adherence to different values), they can generally be safely ignored.
+>**What this has resolved for me**:
+> Realizing that when people from different cultures comment about one another they're often doing A, B or C. Such comment can range from tweet threads to op-eds to public statements to the strange practice of creating lists ranking countries on adherence to different values. In general there's no use of being agitated about the misunderstanding which are more rules than exception. Instead, they can generally be safely ignored.
 
-The reading list above helped break down many of the ideas that kept me from doing D. Once I was more open, here's a non-exhaustive set of what I've found interesting
+The reading list above contains meta-concepts. They helped break down many of the ideas that kept me from doing D. In terms of actually engaging with different cultures, here's a non-exhaustive set of what I've found interesting
 
 `Puranas, Chinese Classics, Xianxia, Great Books, Ramanayana Reruns, Sufi writings, Books from Borges's reading list, The Christian Bible`
 
