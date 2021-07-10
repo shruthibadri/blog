@@ -12,5 +12,26 @@ This is not about insights that are universally groundbreaking. They are totally
 
 I'll use this space to track my own resolved questions. Sharing the path to one's own resolutions is more travelogue than thesis. To torture the metaphor some more, this might mean a false sense of destination sometimes. Like Colombus' India. Recognizing the false stop could re-open a question.
 
-So, to rephrase: I'll use this space to track my own (tentatively) resolved questions
+So, to rephrase: I'll use this space to track my own (tentatively) resolved questions.
+
+## Cultural Differences.
+
+`Reading list: Rajiv Malhotra, Bruno Macaes, Kishore Mahbubani, Idries Shah, Jonathan Haidt`
+	
+There are many differences in values between cultures. When we imagine this isn't true, we waste a lot of time: 
+
+A. using 🥨 logic to claim these cultures are basically the same
+B. condemning those cultures that are different and/or imposing our values on them
+C. fretting that perhaps the values of other cultures are better than ours
+
+Instead of: 
+
+D. learning to engage with people/ideas on their own terms and live with differences while still respecting one's own cultural context.
+	
+**Grief this has saved me**
+> Realizing that when people from different cultures comment about one another (ranging from tweet threads to op-eds to public statements to the strange practice of creating lists ranking countries on adherence to different values), they can generally be safely ignored.
+
+The reading list above helped break down many of the ideas that kept me from doing D. Once I was more open, here's a non-exhaustive set of what I've found interesting
+
+`Puranas, Chinese Classics, Xianxia, Great Books, Ramanayana Reruns, Sufi writings, Books from Borges's reading list, The Christian Bible`
 
